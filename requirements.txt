@@ -6,8 +6,6 @@ seaborn
 scikit-learn
 Path
 Image
-os
-requests
 remove
 TfidfVectorizer
 word_tokenize
