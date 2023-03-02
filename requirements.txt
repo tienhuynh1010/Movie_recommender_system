@@ -6,7 +6,6 @@ seaborn
 scikit-learn
 Path
 Image
-remove
 TfidfVectorizer
 word_tokenize
 cosine_similarity
