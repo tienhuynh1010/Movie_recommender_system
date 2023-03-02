@@ -6,7 +6,5 @@ seaborn
 scikit-learn
 Path
 Image
-word_tokenize
-cosine_similarity
 rembg
 underthesea
