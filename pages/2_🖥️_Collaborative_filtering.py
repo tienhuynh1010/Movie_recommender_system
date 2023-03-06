@@ -25,7 +25,7 @@ matrix = matrix.fillna(0)
 
 matrix1 = matrix.copy()
 
-user = st.selectbox(label='Search Customer_ID here', options=df['customer_id'].values, index=len(df) - 1)
+user = st.selectbox(label='Search Customer_ID here', options=df['customer_id'].unique())
 st.header("\n")
 num_recommendation = st.slider('Number of products recommendation', 1, 5)
 num_neighbors = 5
